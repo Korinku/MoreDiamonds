@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "cmd",
+  "version": "${version}",
+
+  "name": "Custom Diamonds",
+  "description": "",
+  "authors": ["Dragon Commissions"],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/cmd/icon.png",
+  "accessWidener": "cmd.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["aww.bugs.cmd.CustomDiamonds"],
+    "client": [
+      "aww.bugs.cmd.items.tools.basetools.ModBowClientRender",
+      "aww.bugs.cmd.items.projectiles.PigGrenadeClientRender",
+      "aww.bugs.cmd.client.CustomDiamondsClient"
+    ]
+  },
+  "mixins": ["cmd.mixins.json"],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

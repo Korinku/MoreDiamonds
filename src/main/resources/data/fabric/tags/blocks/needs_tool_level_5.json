@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cmd:wither_ore",
+      "required": false
+    },
+    {
+      "id": "cmd:ultra_master_diamond_ore",
+      "required": false
+    }
+  ]
+}

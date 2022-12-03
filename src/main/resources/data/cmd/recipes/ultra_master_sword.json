@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["WLW", "GDT", "WBW"],
+  "key": {
+    "W": {
+      "item": "cmd:ultra_master_diamond"
+    },
+    "L": {
+      "item": "cmd:lightning_diamond"
+    },
+    "G": {
+      "item": "cmd:gold_diamond"
+    },
+    "T": {
+      "item": "cmd:tnt_diamond"
+    },
+    "B": {
+      "item": "cmd:wither_diamond"
+    },
+    "D": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "cmd:ultra_master_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" WW", " XW", " X "],
+  "key": {
+    "W": {
+      "item": "cmd:wood_diamond"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cmd:brutal_axe",
+    "count": 1
+  }
+}

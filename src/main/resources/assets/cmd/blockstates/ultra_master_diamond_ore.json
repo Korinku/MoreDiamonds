@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cmd:block/ultra_master_diamond_ore"
+    }
+  }
+}

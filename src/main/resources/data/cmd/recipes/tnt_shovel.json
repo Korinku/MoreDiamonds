@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" W ", " R ", " R "],
+  "key": {
+    "W": {
+      "item": "cmd:tnt_diamond"
+    },
+    "R": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cmd:tnt_shovel",
+    "count": 1
+  }
+}

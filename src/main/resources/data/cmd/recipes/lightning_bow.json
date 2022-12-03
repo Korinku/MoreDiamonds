@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" WS", "W S", " WS"],
+  "key": {
+    "W": {
+      "item": "cmd:lightning_diamond"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "cmd:lightning_bow",
+    "count": 1
+  }
+}

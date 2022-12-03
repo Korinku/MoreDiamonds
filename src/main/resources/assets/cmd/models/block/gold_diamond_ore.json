@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cmd:block/gold_diamond_ore"
+  }
+}

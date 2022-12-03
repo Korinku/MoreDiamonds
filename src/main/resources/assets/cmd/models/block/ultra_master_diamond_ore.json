@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cmd:block/ultra_master_diamond_ore"
+  }
+}

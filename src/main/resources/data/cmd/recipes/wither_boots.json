@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["W W", "W W", "   "],
+  "key": {
+    "W": {
+      "item": "cmd:wither_diamond"
+    }
+  },
+  "result": {
+    "item": "cmd:wither_boots",
+    "count": 1
+  }
+}

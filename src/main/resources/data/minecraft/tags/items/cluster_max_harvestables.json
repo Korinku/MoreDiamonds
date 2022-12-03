@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cmd:gold_diamond_pickaxe",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" W ", "WXW", "WWW"],
+  "key": {
+    "W": {
+      "item": "cmd:pig_diamond"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "cmd:pig_grenade",
+    "count": 16
+  }
+}
